@@ -1,7 +1,12 @@
 # Issue
+
+*No se te olvide indicarnos cuales tags y sobre cual proyecto estas trabajando* --->
+
 ## Por favor cuentame que encontraste o que podemos mejorar
 
-### Si gustas mejorar nuestro código y comunidad, por supuesto cuentanos que hiciste y como lo hiciste, nos sera de gran ayuda.
+- [x] Mechanics
+- [ ] Electronis
+- [ ] Software
 
 ### Si este es un error o bug ¿Cómo lo puedo replicar?
 
