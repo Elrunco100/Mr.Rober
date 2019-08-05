@@ -46,6 +46,6 @@ Comentanos con más detalle el problema aquí:
 Comentanos con más detalle el problema aquí:
 
 ## Nuestra Comunidad
-Somos una pequeña comunidad univrsitaria, por lo que contamos con tu apoyo para mantener el proyecto, es un placer tenerte aquí con tus
+Somos una pequeña comunidad universitaria, por lo que contamos con tu apoyo para mantener el proyecto, es un placer tenerte aquí con tus
 sugerencias, quejas e inquietudes. Te contestaremos en el menor tiempo posible y de antemano
 **Gracias por trabajar con nosotros.**
