@@ -1,4 +1,15 @@
-#Pull request
+# Pull request
+*No se olvide darnos los detalles de la actualización a la cúal en la que has trabajado allí -->*
 
-## Cuentanos Como nos ayudaste a mejorar nuestro proyecto. *Estariamos inmensamente agradecidos si nos lo detallas con precision*
 
+## Contamos con tu ayuda
+
+### ¿Cúal fue el área en la que trabajaste?
+
+- [ ] Mecánica
+- [ ] Electrónica
+- [ ] Documentación
+- [ ] Interfaz
+- [ ] Programación y control
+
+Por favor cuentanos con más detalle en que nos ayudaste aquí:
